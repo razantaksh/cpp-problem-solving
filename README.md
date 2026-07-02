@@ -1,2 +1,2 @@
-# cpp-problem-solving-level-1
-c++ problem solving exercises level 1
+# cpp-problem-solving
+c++ problem solving exercises
